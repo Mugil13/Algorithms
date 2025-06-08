@@ -8,7 +8,7 @@ This repo contains categorized implementations of various algorithms covered und
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mugil13/Design-and-Analysis-of-Algorithms.git
+   git clone https://github.com/Mugil13/Algorithms.git
 
 2. Navigate to the folder of interest.
 
